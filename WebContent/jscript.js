@@ -1,6 +1,6 @@
 // Blackjack
 
-// by Shiva
+// by Shiva Jyothi
 
 //
 
